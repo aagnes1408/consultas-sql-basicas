@@ -5,5 +5,6 @@ Este repositório contém meus estudos e exercícios práticos com SQL Server.
 - Uso de agregações como média e contagem.
 - Aplicação de comandos de ordenação e agrupamento para análises práticas.
 - Compreensão da lógica por trás dos filtros `HAVING` e `LIKE`.
+- Uso de ISNULL, CASE, IIF e filtros com AND/OR.
 - ##  Objetivo
 - Consolidar o aprendizado de SQL com projetos reais e criar um portfólio prático desde o início da jornada.
