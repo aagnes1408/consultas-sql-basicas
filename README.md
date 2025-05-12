@@ -6,6 +6,7 @@ Este repositório contém meus estudos e exercícios práticos com SQL Server.
 - Aplicação de comandos de ordenação e agrupamento para análises práticas.
 - Compreensão da lógica por trás dos filtros `HAVING` e `LIKE`.
 - Uso de ISNULL, CASE, IIF e filtros com AND/OR.
-- manipulação de nomes de produtos, localizar palavras dentro dos nomes,formatar datas para dd/MM/yyyy,extrair partes da data e calcular quantos dias o produto está disponível.
+- Manipulação de strings (LEFT, RIGHT, LEN, UPPER, LOWER), formatação de datas (FORMAT), extração de partes da data (YEAR, MONTH, DAY) e cálculo de diferença entre datas (DATEDIFF).
+- Consultas usando JOINs (INNER, LEFT, RIGHT, FULL, CROSS e SELF) para combinar dados de múltiplas tabelas.
 - ##  Objetivo
-- Consolidar o aprendizado de SQL com projetos reais e criar um portfólio prático desde o início da jornada,
+- Consolidar o aprendizado de SQL com projetos reais e criar um portfólio prático desde o início da jornada
